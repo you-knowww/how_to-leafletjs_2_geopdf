@@ -1,5 +1,5 @@
 # How to export geoPDF from LeafletJS webmap
-How to convert leaflet js to geoPDF to download maps from Avenza.
+How to print geoPDF from a webmap in leaflet js to download maps from the web for Avenza.
 
 TL:DR;
 Leafletjs -> domtoimage -> GdalJS
