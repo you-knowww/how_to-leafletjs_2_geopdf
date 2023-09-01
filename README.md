@@ -1,4 +1,4 @@
-# how_to-leafletjs_2_geopdf
+# How to export geoPDF from LeafletJS webmap
 How to convert leaflet js to geoPDF to download maps from Avenza.
 
 TL:DR;
